@@ -286,6 +286,16 @@ img {
     box-shadow: 0 20px 40px rgba(255, 20, 96, 0.4);
 }
 
+.cta-button.whatsapp {
+    background-color: #25D366;
+    box-shadow: 0 15px 30px rgba(37, 211, 102, 0.3);
+}
+
+.cta-button.whatsapp:hover {
+    background-color: #1EBE5D;
+    box-shadow: 0 20px 40px rgba(37, 211, 102, 0.4);
+}
+
 .cta-button i {
     font-size: 1.4rem;
     transition: transform 0.3s ease;
